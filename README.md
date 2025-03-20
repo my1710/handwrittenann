@@ -63,11 +63,6 @@ Chạy lệnh sau để cài đặt các thư viện cần thiết:
 pip install tensorflow opencv-python numpy matplotlib
 
 
-## 🚀 Hướng dẫn cài đặt và chạy
-
-### 1️⃣ Cài đặt môi trường:
-```bash
-pip install tensorflow opencv-python numpy matplotlib
 ```
 
 ### 2️⃣ Huấn luyện mô hình:
