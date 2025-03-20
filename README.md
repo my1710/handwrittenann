@@ -57,6 +57,8 @@ lớp: CNTT17-11
 
 ## 🚀 Hướng dẫn cài đặt và chạy  
 ### lưu ý! khi tải mô hình về và chạy, dataset phải được đặt tên tệp là "digits" và tên các ảnh trong tệp phải đặt là "digit(số thứ tự ảnh đã tải vào).png"
+![Ví dụ chữ số](tepDigit.png)
+
 ### 1️⃣ Cài đặt môi trường  
 Chạy lệnh sau để cài đặt các thư viện cần thiết:  
 ```bash
