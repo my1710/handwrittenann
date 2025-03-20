@@ -1,5 +1,7 @@
 # 🧠 Nhận Dạng Chữ Số Viết Tay Sử Dụng Mạng Nơ-ron Nhân Tạo (ANN)
-
+Sinh viên thực hiện: Đinh Mai Phương
+lớp: CNTT17-11
+Đại học Đại Nam
 ## 🔍 Giới thiệu  
 - Ứng dụng sử dụng mạng nơ-ron nhân tạo (ANN) để phân loại chữ số viết tay từ tập dữ liệu MNIST.  
 - Ứng dụng trong nhập liệu tự động, nhận diện số trong hình ảnh tài liệu, giáo dục và ngân hàng.  
